@@ -1,0 +1,33 @@
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 0;
+  margin: 0;
+  color: #353942;
+}
+#banner {
+  width: 100%;
+  background-color: #353942;
+  color: white;
+  padding: 0.5rem;
+}
+
+#title {
+  display: flex;
+  height: 3rem;
+  border-bottom: 1px solid #efefef;
+  align-items: flex-end;
+  padding: 5px;
+  padding-left: 2rem;
+  padding-top: 1rem;
+}
+
+#tableContainer {
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+.custom {
+  max-width: 70%;
+  align-self: center;
+  margin-top: 5%;
+}
