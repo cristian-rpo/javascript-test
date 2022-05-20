@@ -16,9 +16,7 @@ body {
   height: 3rem;
   border-bottom: 1px solid #efefef;
   align-items: flex-end;
-  padding: 5px;
-  padding-left: 2rem;
-  padding-top: 1rem;
+  padding-left: 1%;
 }
 
 #tableContainer {
